@@ -1,0 +1,51 @@
+[
+  {
+    "receta": "Pastel de papas",
+    "ingredeintes": [
+      "Pure: Papas - 1kg Leche c/n Manteca c/n Nuez moscada",
+      "Relleno: Lentejas - 200gr o 1 lata ½ morrón  1 cebolla 2 dientes de ajo Huevos duros - 3u. Aceitunas Puré de tomate Condimentos"
+    ],
+    "procedimiento": [
+      "Poner a hervir las papas con sal gruesa.",
+      "Poner a hervir las lentejas previamente remojadas. Ignorá  este paso si usás lentejas en lata.",
+      "Una vez hechas las papas, hacer el puré con leche tibia, manteca y nuez moscada. Reservar",
+      "En una sartén poner un chorrito de aceite y agregar el morrón y la cebolla en cubos con una pizca de sal.",
+      "Cuando la cebolla esté transparente, agregar el ajo picado y las lentejas.",
+      "Incorporar todo y agregar media caja de puré de tomate.",
+      "Una vez que se evaporó el puré de tomate, condimentar a gusto (sal, pimentón, comino, etc)",
+      "Sacar del fuego y agregar los huevos y aceitunas cortados junto con una cucharada de puré de papas. Incorporar todo",
+      "En una fuente previamente aceitada, cubrir el fondo con una capa de puré seguida del relleno y otra capa de puré",
+      "Meter en el horno hasta que se caliente y/o dore"
+    ],
+    "img": "./multimedia/pasteldepapas.jpg",
+    "id": 1
+  },
+  {
+    "receta": "Empanadas - Para 12u. aproximadamente",
+    "ingredeintes":  ["Tapas para empanadas Lentejas - 200gr o 1 lata. ½ morrón 1 cebolla 2 dientes de ajo1 zanahoria Huevos duros - 1u. Aceitunas Tomates - 2u. Salsa de soja 1 cubo de caldo de verduras. Condimentos."],
+    "procedimiento": ["Hervir las lentejas previamente remojadas. Saltar este paso si usás lentejas en lata.", "En una sartén poner un poco de aceite e incorporar el morrón y la cebolla en cubos junto con el caldo", "Esperar a que el caldo se disuelva y la cebolla se ponga transparente", "Agregar la zanahoria rallada y el ajo picado.", "Agregar el tomate en cubos sin semillas", "Agregar las lentejas, un chorrito de salsa de soja y esperar a que el tomate despida todo su jugo.", "Sacar del fuego y agregar el huevo duro y las aceitunas cortadas.", "Esperar a que se enfríe y armar las empanadas. Poner en una asadera aceitada y llevar al horno hasta que se doren."],
+      "img": "./multimedia/empanadaslenteja.jpg",
+      "id": 2
+    },
+    {
+      "receta": "Pasta frola",
+      "ingredeintes": ["200 gr de margarina / manteca 150gr de azúcar 2 huevos 200gr de harina 0000 + 200 gr de harina leudante Pizca de sal Esencia de vainilla 500gr de membrillo / batata / dulce de leche "],
+      "procedimiento": ["Formar un arenado con la margarina / manteca y el azúcar", "Agregar los huevos de a uno junto con la esencia de vainilla. Incorporar sin batir.", "Una vez integrado, agregar la harina de a poco junto con la pizca de sal. Unir sin amasar hasta formar una masa.", "Llevar a la heladera en un papel film durante media hora aproximadamente.", "Derretir el membrillo con un chorrito de agua. Puede ser en una cacerola o en el microondas.","Sacar la masa de la heladera y estirar entre dos film hasta lograr el diámetro deseado.","Forrar la tartera y pinchar con un tenedor toda la superficie (los bordes también)", "Agregar el membrillo y realizar el enrejado con la masa sobrante.", "Llevar al horno hasta que esté dorada."],
+      "img": "./multimedia/pastafrola.jpg",
+      "id": 3
+    },
+    {
+      "receta": "Tortas fritas",
+      "ingredeintes": ["Harina leudante - 400gr Leche c/n - (1 taza aprox.) Aceite - 4 cucharadas. Pizca de sal - 1 cucharadita. "],
+      "procedimiento": ["En un bowl poner la harina junto con la sal.", "Formar un hueco en el centro y agregar el aceite.", "Agregar la leche tibia de a poco hasta formar una masa suave.", "Amasar 10mn hasta que la masa quede lisa.", "Dejar descansar 30mn", "Hacer bollos del tamaño deseado y estirar con los dedos de forma redondeada.", "Freír en aceite caliente"],
+      "img": "./multimedia/tortafritas.jpg",
+      "id": 4
+    },
+    {
+      "receta": "Brownie",
+      "ingredeintes": ["Manteca - 100gr Huevos - 3u. Azúcar - 1 taza Harina 000 o 0000 - 1 taza Cacao amargo - 1 taza o Nesquik - 1 ½ taza Esencia de vainilla.  "],
+      "procedimiento": ["En un bowl poner la manteca derretida y el azúcar.", "Una vez integrado, agregar los huevos de a uno y la esencia de vainilla.", "Incorporar sin agregar aire a la mezcla.", "Agregar la harina en dos veces con movimientos envolventes. Repetir con el cacao.", "Verter la preparación en una fuente rectangular o circular enmantecada.", "Llevar al horno a 180º entre 15mn y 20mn"],
+      "img": "./multimedia/brownie.png",
+      "id": 5
+    }
+  ]
